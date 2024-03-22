@@ -31,7 +31,7 @@ Komponen Yang Digunakan:
 6. 1 Buah Buzzer
 7. 1 Buah Sensor Suhu dan Kelembapan DHT11
 
-Link Video:
+Link Video: https://youtu.be/-Vk7ilten9Y 
 
 #
 1. Design Schematic:
