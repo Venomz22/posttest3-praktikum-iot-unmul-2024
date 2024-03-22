@@ -1,4 +1,4 @@
-# posttest3-praktikum-iot-unmul-2024
+![image](https://github.com/Venomz22/posttest3-praktikum-iot-unmul-2024/assets/93197543/f2810abc-ad88-4007-b90c-d15098a371c3)# posttest3-praktikum-iot-unmul-2024
 Kelompok IOT A 2021:
 1. 2109106005 Dimas Abdi Yudha
 2. 2109106019 Dimas Arya Nugraha
@@ -45,6 +45,8 @@ Link Video:
 2. Our Schematic:
 #
 ![rangkaianP3](https://github.com/DimasYudha1223/posttest1-praktikum-iot-unmul-2024/assets/93185675/83195367-2a39-4cc7-b7a2-f519b01212ff)
-
-
+#
+3. Chart Thinger.io
+   ![image](https://github.com/Venomz22/posttest3-praktikum-iot-unmul-2024/assets/93197543/9436487a-dfcd-46d8-b750-869e0d8bc2d6)
+#
 
